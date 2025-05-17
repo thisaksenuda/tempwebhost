@@ -1,0 +1,17 @@
+.main_h1{
+    font-size: 20;
+    font-weight: 100%;
+    text-align: center;
+}
+.caption{
+    text-align: center;
+}
+
+.table{
+    margin: 50px;
+    align-content: center;
+}
+
+.td_img{
+    padding: 55px;   
+  }
